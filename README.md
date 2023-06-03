@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![logo](header.png)
 <h1 align="center">Hi 👋, I'm Shade</h1>
 
 <h3 align="center">A masterful phone user</h3>

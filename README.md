@@ -1,5 +1,4 @@
 ### Hi there 👋
-![logo](header.png)
 <h1 align="center">Hi 👋, I'm Shade</h1>
 
 <h3 align="center">A masterful phone user</h3>
@@ -39,16 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamhiddenagain&show_icons=true&locale=en" alt="iamhiddenagain" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamhiddenagain&" alt="iamhiddenagain" /></p>
-
-
-
-
-
-
-
-
-
-
-
-
 
